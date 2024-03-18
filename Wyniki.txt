@@ -1,0 +1,3 @@
+Wartoœæ œrednia: 8.0
+Wartoœæ maksymalna: 20
+Wartoœæ minimalna: 1
